@@ -33,7 +33,7 @@ void main() {
     int userChoice = choice();
 
     if (userChoice == 5) {
-      print("Exiting the loop.");
+      print("Exiting Calculator.");
       break;
     }
 
